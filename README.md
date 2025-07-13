@@ -32,3 +32,4 @@ This setup uses Java’s Socket, ServerSocket, BufferedReader, and PrintWriter c
 
 # OUTPUT
 
+<img width="345" height="77" alt="Image" src="https://github.com/user-attachments/assets/aa66614c-490f-4513-a90e-77b6d5787b17" />
